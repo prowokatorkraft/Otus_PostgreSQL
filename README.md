@@ -1,1 +1,1 @@
-# Outus_Intro_to_PostgreSQL
+# PostgreSQL для администраторов баз данных и разработчиков
