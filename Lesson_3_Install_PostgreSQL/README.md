@@ -19,4 +19,6 @@
     * подключится снова из контейнера с клиентом к контейнеру с сервером
     * проверить, что данные остались на месте
 1. <b>Результаты выполнения</b></br>
-   
+   ![Установка](https://github.com/prowokatorkraft/Otus_PostgreSQL/blob/main/Lesson_3_Install_PostgreSQL/2023-04-19_23h15_13.png)
+   ![Проверка](https://github.com/prowokatorkraft/Otus_PostgreSQL/blob/main/Lesson_3_Install_PostgreSQL/2023-04-19_23h19_26.png)
+   ![Внешняя проверка](https://github.com/prowokatorkraft/Otus_PostgreSQL/blob/main/Lesson_3_Install_PostgreSQL/2023-04-19_23h18_31.png)
